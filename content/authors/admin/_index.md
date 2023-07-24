@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Zhiyu Liu (刘知雨)
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Zhiyu
+last_name: Liu
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: University of Manchester
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
